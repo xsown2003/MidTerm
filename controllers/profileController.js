@@ -25,7 +25,6 @@ const updateProfile = async (req, res) => {
     }
 };
 
-// Tương tự, bạn cần tạo các hàm `addEducation`, `updateEducation`, `deleteEducation`, `addWorkExperience`, `updateWorkExperience`, `deleteWorkExperience`, `addSkill`, `updateSkill`, `deleteSkill`, `addProject`, `updateProject`, `deleteProject`, `addHobby`, `updateHobby`, `deleteHobby`, `addGoal`, `updateGoal`, `deleteGoal` tương ứng với các CRUD operation cho các bảng khác.
 
 module.exports = {
     getProfile,
